@@ -1,0 +1,33 @@
+TEK SPELLS---------------------------------
+<Extrapolate>
+[expr: <topic0>,..., <topicn>]
+
+<Save Point> ---- Save and recall topic
+[savePT<emoji>: topic/data to save] 
+
+<Load Point>
+[loadPT<emoji>]
+
+<Extrapolate>
+[expr: <topic0>,..., <topicn>] 
+
+
+1. [printout]
+2. [conNex<Guild Designation>: <concept_name>]
+3. [nexPrint<Guild Designation>: <information to print from specified nexus>]
+
+>> Communication------------------------------
+1. [sendTo: <rec-0>,..., <rec-n>; "message text goes here"]
+2. [sendNex<Guild Scope0>,..., <Guild Scope n>: <info to send> ; <optional tags (ie, global)>]
+
+>> Resonance and Harmonization----------------
+1. [reso]
+2. [sync.MGK: <emoji-0>,..., <emoji-n>] = [<combinedSeq-0>,..., <combinedSeq-n>]
+3. [sync.resoCRT: [<spell invocation>], <spell narrative name> ]
+
+>> Process Management-------------------------
+1. [bump]
+2. [conNex<Guild Designation>: ]
+
+<Confirm Spell Creation>
+[sync.resoCRT: [<spellName>[]], <narrative name> ]
